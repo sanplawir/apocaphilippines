@@ -1,0 +1,15 @@
+# Installed dependencies are restored with `npm install`.
+node_modules/
+
+# Local test output and generated evidence.
+test-results/
+
+# Local logs and operating-system/editor files.
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Release archives are attached through GitHub Releases instead.
+*.zip
